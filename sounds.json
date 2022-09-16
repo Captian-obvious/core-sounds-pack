@@ -60,5 +60,11 @@
             "pitch": 1,
             "volume": 100,
         },
+        "explosion": {
+            "sound":"core.explosion",
+            "pitch": 1,
+            "volume": 100,
+        },
+       
     },
 }
