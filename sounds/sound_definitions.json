@@ -1,0 +1,77 @@
+{
+	"format_version": "1.18.0",
+	"sound_definitions": {
+		"core.music": {
+			"category": "neutral",
+			"sounds": ["sounds/theme.ogg"],
+		},
+		"core.music1": {
+			"category":"neutral",
+			"sounds":["sounds/music1.ogg"],
+		},
+		"core.music2": {
+			"category":"neutral",
+			"sounds":["sounds/music2.ogg"],
+		},
+		"core.music3": {
+			"category":"neutral",
+			"sounds":["sounds/music3.ogg"],
+		},
+		"core.music4": {
+			"category":"neutral",
+			"sounds":["sounds/music4.ogg"],
+		},
+		"core.music5": {
+			"category":"neutral",
+			"sounds":["sounds/music5.ogg"],
+		},
+		"core.tentozero": {
+			"category":"neutral",
+			"sounds":["sounds/tentozero.ogg"],
+		},
+		"core.explosion": {
+			"category":"neutral",
+			"sounds":["sounds/explosion.ogg"],
+		},
+		"core.exceeded": {
+			"category":"neutral",
+			"sounds":["sounds/exceeded.ogg"],
+		},
+		"core.finale": {
+			"category":"neutral",
+			"sounds":["sounds/finale.ogg"],
+		},
+		"core.overheat": {
+			"category":"neutral",
+			"sounds":["sounds/overheat.ogg"],
+		},
+		"core.safeguards": {
+			"catagory":"neutral",
+			"sounds":["sounds/safeguards.ogg"],
+		},
+		"core.t6min": {
+			"catagory":"neutral",
+			"sounds":["sounds/t6min.ogg"],
+		},
+		"core.evac": {
+			"catagory":"neutral",
+			"sounds":["sounds/EVAC.ogg"],
+		},
+		"core.evacuateatonce": {
+			"catagory":"neutral",
+			"sounds":["sounds/danger.ogg"],
+		},
+		"core.lockdown": {
+			"catagory":"neutral",
+			"sounds":["sounds/Lockdown.ogg"],
+		}
+		"core.meltdown": {
+			"catagory":"neutral",
+			"sounds":["sounds/meltdownStarting.ogg"],
+		},
+		"core.metalexplosion": {
+			"catagory":"neutral",
+			"sounds":["sounds/metalexplosion.ogg"],
+		},
+	}
+}
