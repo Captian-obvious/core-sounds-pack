@@ -1,7 +1,7 @@
 {
     "core_sounds":{
-        "theme" : {
-            "sound":"core.theme",
+        "music" : {
+            "sound":"core.music",
             "pitch": 1,
             "volume": 100,
         },
@@ -82,6 +82,16 @@
         },
         "evacuateatonce":  {
             "sound":"core.evacuateatonce",
+            "pitch": 1,
+            "volume": 100,
+        },
+        "evac":  {
+            "sound":"core.evac",
+            "pitch": 1,
+            "volume": 100,
+        },
+        "overheat":  {
+            "sound":"core.overheat",
             "pitch": 1,
             "volume": 100,
         },
