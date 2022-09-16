@@ -1,5 +1,10 @@
 {
     "core_sounds":{
+        "music" : {
+            "sound":"core.theme",
+            "pitch": 1,
+            "volume": 100,
+        },
         "music1": {
             "sound":"core.music1",
             "pitch": 1,
@@ -42,6 +47,16 @@
         },
         "safeguards": {
             "sound":"core.safeguards",
+            "pitch": 1,
+            "volume": 100,
+        },
+        "metalexplosion": {
+            "sound":"core.metalexplosion",
+            "pitch": 1,
+            "volume": 100,
+        },
+        "lockdown": {
+            "sound":"core.lockdown",
             "pitch": 1,
             "volume": 100,
         },
