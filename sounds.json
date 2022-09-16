@@ -70,5 +70,20 @@
             "pitch": 1,
             "volume": 100,
         },
+        "meltdown":  {
+            "sound":"core.meltdown",
+            "pitch": 1,
+            "volume": 100,
+        },
+        "exceeded":  {
+            "sound":"core.exceeded",
+            "pitch": 1,
+            "volume": 100,
+        },
+        "evacuateatonce":  {
+            "sound":"core.evacuateatonce",
+            "pitch": 1,
+            "volume": 100,
+        },
     },
 }
