@@ -3,75 +3,75 @@
 	"sound_definitions": {
 		"core.music": {
 			"category": "neutral",
-			"sounds": ["sounds/theme.ogg"],
+			"sounds": ["sounds/theme"],
 		},
 		"core.music1": {
 			"category":"neutral",
-			"sounds":["sounds/music1.ogg"],
+			"sounds":["sounds/music1"],
 		},
 		"core.music2": {
 			"category":"neutral",
-			"sounds":["sounds/music2.ogg"],
+			"sounds":["sounds/music2"],
 		},
 		"core.music3": {
 			"category":"neutral",
-			"sounds":["sounds/music3.ogg"],
+			"sounds":["sounds/music3"],
 		},
 		"core.music4": {
 			"category":"neutral",
-			"sounds":["sounds/music4.ogg"],
+			"sounds":["sounds/music4"],
 		},
 		"core.music5": {
 			"category":"neutral",
-			"sounds":["sounds/music5.ogg"],
+			"sounds":["sounds/music5"],
 		},
 		"core.tentozero": {
 			"category":"neutral",
-			"sounds":["sounds/tentozero.ogg"],
+			"sounds":["sounds/tentozero"],
 		},
 		"core.explosion": {
 			"category":"neutral",
-			"sounds":["sounds/explosion.ogg"],
+			"sounds":["sounds/explosion"],
 		},
 		"core.exceeded": {
 			"category":"neutral",
-			"sounds":["sounds/exceeded.ogg"],
+			"sounds":["sounds/exceeded"],
 		},
 		"core.finale": {
 			"category":"neutral",
-			"sounds":["sounds/finale.ogg"],
+			"sounds":["sounds/finale"],
 		},
 		"core.overheat": {
 			"category":"neutral",
-			"sounds":["sounds/overheat.ogg"],
+			"sounds":["sounds/overheat"],
 		},
 		"core.safeguards": {
 			"catagory":"neutral",
-			"sounds":["sounds/safeguards.ogg"],
+			"sounds":["sounds/safeguards"],
 		},
 		"core.t6min": {
 			"catagory":"neutral",
-			"sounds":["sounds/t6min.ogg"],
+			"sounds":["sounds/t6min"],
 		},
 		"core.evac": {
 			"catagory":"neutral",
-			"sounds":["sounds/EVAC.ogg"],
+			"sounds":["sounds/EVAC"],
 		},
 		"core.evacuateatonce": {
 			"catagory":"neutral",
-			"sounds":["sounds/danger.ogg"],
+			"sounds":["sounds/danger"],
 		},
 		"core.lockdown": {
 			"catagory":"neutral",
-			"sounds":["sounds/Lockdown.ogg"],
+			"sounds":["sounds/Lockdown"],
 		}
 		"core.meltdown": {
 			"catagory":"neutral",
-			"sounds":["sounds/meltdownStarting.ogg"],
+			"sounds":["sounds/meltdownStarting"],
 		},
 		"core.metalexplosion": {
 			"catagory":"neutral",
-			"sounds":["sounds/metalexplosion.ogg"],
+			"sounds":["sounds/metalexplosion"],
 		},
 	}
 }
