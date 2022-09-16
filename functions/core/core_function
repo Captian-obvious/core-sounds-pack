@@ -1,0 +1,1 @@
+/execute @a ~~~ /scoreboard players test Temp Core_Status 4000 10000
