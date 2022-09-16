@@ -1,6 +1,6 @@
 {
     "core_sounds":{
-        "music" : {
+        "theme" : {
             "sound":"core.theme",
             "pitch": 1,
             "volume": 100,
@@ -65,6 +65,10 @@
             "pitch": 1,
             "volume": 100,
         },
-       
+       "tentozero":  {
+            "sound":"core.tentozero",
+            "pitch": 1,
+            "volume": 100,
+        },
     },
 }
