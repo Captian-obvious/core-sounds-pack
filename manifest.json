@@ -1,12 +1,12 @@
 {
-    "format_verson":1.18.0,
+    "format_verson":1,
     "header":{
         "discription":"Sounds Pack for 'Super Computer Core'",
         "name":"Sounds Pack",
         "uuid":"93008f16-3840-11ed-a261-0242ac120002",
         "version":[1,0,0],
         "min_engine_version": [1, 16, 0],
-    }
+    },
     "modules": [
         {
             "discription":"Sounds Pack for 'Super Computer Core'",
