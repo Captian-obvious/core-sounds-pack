@@ -32,7 +32,7 @@
 		"sounds":["sounds/explosion"],
 	},
 	"core.exceeded": {
-		"category":"neutral",
+		"category":"music",
 		"sounds":["sounds/exceeded"],
 	},
 	"core.finale": {
