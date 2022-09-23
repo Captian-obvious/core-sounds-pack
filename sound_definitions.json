@@ -1,0 +1,82 @@
+{
+	"core.music": {
+		"category": "music",
+		"sounds": ["sounds/music/theme"],
+	},
+	"core.music1": {
+		"category":"music",
+		"sounds":["sounds/music/music1"],
+	},
+	"core.music2": {
+		"category":"music",
+		"sounds":["sounds/music/music2"],
+	},
+	"core.music3": {
+		"category":"music",
+		"sounds":["sounds/music/music3"],
+	},
+	"core.music4": {
+		"category":"music",
+		"sounds":["sounds/music/music4"],
+	},
+	"core.music5": {
+		"category":"music",
+		"sounds":["sounds/music/music5"],
+	},
+	"core.tentozero": {
+		"category":"neutral",
+		"sounds":["sounds/music/tentozero"],
+	},
+	"core.explosion": {
+		"category":"neutral",
+		"sounds":["sounds/music/explosion"],
+	},
+	"core.exceeded": {
+		"category":"music",
+		"sounds":["sounds/music/exceeded"],
+	},
+	"core.epoweractivated": {
+		"category":"music",
+		"sounds":["sounds/music/emergencypoweractivated"],
+	},
+	"core.exceeded": {
+		"category":"music",
+		"sounds":["sounds/music/exceeded"],
+	},
+	"core.finale": {
+		"category":"neutral",
+		"sounds":["sounds/music/finale"],
+	},
+	"core.overheat": {
+		"category":"music",
+		"sounds":["sounds/music/overheat"],
+	},
+	"core.safeguards": {
+		"catagory":"music",
+		"sounds":["sounds/music/safeguards"],
+	},
+	"core.t6min": {
+		"catagory":"music",
+		"sounds":["sounds/music/t6min"],
+	},
+	"core.evac": {
+		"catagory":"music",
+		"sounds":["sounds/music/EVAC"],
+	},
+	"core.evacuateatonce": {
+		"catagory":"music",
+		"sounds":["sounds/music/danger"],
+	},
+	"core.lockdown": {
+		"catagory":"music",
+		"sounds":["sounds/music/Lockdown"],
+	}
+	"core.meltdown": {
+		"catagory":"music",
+		"sounds":["sounds/music/meltdownStarting"],
+	},
+	"core.metalexplosion": {
+		"catagory":"music",
+		"sounds":["sounds/music/metalexplosion"],
+	},
+}
