@@ -5,14 +5,14 @@
     		"category": "ui",
     		"sounds": [{
 			"name":"sounds/music/theme",
-			"stream":true,
+			"stream":true
 		}],
 		},
 		"core.melt2": {
 			"category":"ui",
 			"sounds":[{
 				"name":"sounds/music/destruction_imminent",
-				"stream":true,
+				"stream":true
 			}],
 		},
 		"core.melt3": {
@@ -28,7 +28,7 @@
 			"sounds":[
 				{
 					"name":"sounds/music/frozen",
-					"stream":true,
+					"stream":true
 				}
 			],
 		}
@@ -36,33 +36,33 @@
 			"category":"ui",
 			"sounds":[
 			{"name":"sounds/music/frozen_pulse",
-			"stream":true,}
+			"stream":true}
 			],
 		},
 		"core.old.freeze2": {
 			"category":"ui",
 			"sounds":[{"name":"sounds/music/massive_implosion",
-				"stream":true,}],
+				"stream":true}],
 		},
 		"core.freeze3": {
 			"category":"ui",
 			"sounds":[{"name":"sounds/music/Intense_Chase",
-				"stream":true,}],
+				"stream":true}],
 		},
 		"core.hardstyle": {
 			"category":"ui",
 			"sounds":[{"name":"sounds/music/music5",
-				"stream":true,}],
+				"stream":true}],
 		},
 		"core.tentozero": {
 			"category":"ui",
 			"sounds":[{"name":"sounds/music/tentozero",
-				"stream":true,}],
+				"stream":true}],
 		},
 		"core.explosion": {
 			"category":"ui",
 			"sounds":[{"name":"sounds/music/explosion",
-				"stream":true,}],
+				"stream":true}],
 		},
 		"core.exceeded": {
 			"category":"ui",
