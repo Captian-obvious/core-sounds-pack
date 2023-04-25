@@ -3,15 +3,16 @@
     "header":{
         "discription":"Sounds Pack for 'Super Computer Core'",
         "name":"Sounds Pack",
-        "uuid":"93008f16-3840-11ed-a261-0242ac120002",
+        "uuid":"445c3846-e37c-11ed-b5ea-0242ac120002",
         "version":[1,0,0],
         "min_engine_version": [1, 16, 0],
     },
     "modules": [
+
         {
             "discription":"Sounds Pack for 'Super Computer Core'",
             "type":"resources",
-            "uuid":"93009150-3840-11ed-a261-0242ac120002",
+            "uuid":"445c3c10-e37c-11ed-b5ea-0242ac120002",
             "version": [1,0,0],
         },
     ],
