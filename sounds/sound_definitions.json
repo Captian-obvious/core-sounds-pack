@@ -1,74 +1,208 @@
 {
-	"core.music": {
-		"category": "music",
-		"sounds": ["sounds/music/theme"],
-	},
-	"core.music1": {
-		"category":"music",
-		"sounds":["sounds/music/music1"],
-	},
-	"core.music2": {
-		"category":"music",
-		"sounds":["sounds/music/music2"],
-	},
-	"core.music3": {
-		"category":"music",
-		"sounds":["sounds/music/music3"],
-	},
-	"core.music4": {
-		"category":"music",
-		"sounds":["sounds/music/music4"],
-	},
-	"core.music5": {
-		"category":"music",
-		"sounds":["sounds/music/music5"],
-	},
-	"core.tentozero": {
-		"category":"neutral",
-		"sounds":["sounds/music/tentozero"],
-	},
-	"core.explosion": {
-		"category":"neutral",
-		"sounds":["sounds/music/explosion"],
-	},
-	"core.exceeded": {
-		"category":"music",
-		"sounds":["sounds/music/exceeded"],
-	},
-	"core.finale": {
-		"category":"neutral",
-		"sounds":["sounds/music/finale"],
-	},
-	"core.overheat": {
-		"category":"music",
-		"sounds":["sounds/music/overheat"],
-	},
-	"core.safeguards": {
-		"catagory":"music",
-		"sounds":["sounds/music/safeguards"],
-	},
-	"core.t6min": {
-		"catagory":"music",
-		"sounds":["sounds/music/t6min"],
-	},
-	"core.evac": {
-		"catagory":"music",
-		"sounds":["sounds/music/EVAC"],
-	},
-	"core.evacuateatonce": {
-		"catagory":"music",
-		"sounds":["sounds/music/danger"],
-	},
-	"core.lockdown": {
-		"catagory":"music",
-		"sounds":["sounds/music/Lockdown"],
+	"sound_definitions": {
+	    "core.melt1": {
+			"category": "ui",
+			"sounds": ["sounds/music/theme"],
+		},
+		"core.melt2": {
+			"category":"ui",
+			"sounds":["sounds/music/destruction_imminent"],
+		},
+		"core.melt3": {
+			"category":"ui",
+			"sounds":["sounds/music/ultimate_travesty"],
+		},
+		"core.freeze1": {
+		    "category":"ui",
+			"sounds":["sounds/music/frozen"],
+		}
+		"core.freeze2": {
+			"category":"ui",
+			"sounds":["sounds/music/frozen_pulse"],
+		},
+		"core.old.freeze2": {
+			"category":"ui",
+			"sounds":["sounds/music/massive_implosion"],
+		},
+		"core.freeze3": {
+			"category":"ui",
+			"sounds":["sounds/music/Intense_Chase"],
+		},
+		"core.hardstyle": {
+			"category":"ui",
+			"sounds":["sounds/music/music5"],
+		},
+		"core.tentozero": {
+			"category":"ui",
+			"sounds":["sounds/music/tentozero"],
+		},
+		"core.explosion": {
+			"category":"ui",
+			"sounds":["sounds/music/explosion"],
+		},
+		"core.exceeded": {
+			"category":"ui",
+			"sounds":["sounds/music/exceeded"],
+		},
+		"core.rocketsilosann": {
+			"category":"ui",
+			"sounds":["sounds/music/rocketsilosann"],
+		},
+		"core.emergencyPowerActivated": {
+			"category":"ui",
+			"sounds":["sounds/music/emergencyPowerActivated"],
+		},
+		"core.coreExplosionImminent": {
+			"category":"ui",
+			"sounds":["sounds/music/coreExplosionImminent"],
+		},
+		"core.shockwave": {
+			"category":"ui",
+			"sounds":["sounds/music/core_shockwave"],
+		},
+		"core.core_explosion": {
+			"category":"ui",
+			"sounds":["sounds/music/core_explosion"],
+		},
+		"core.earthquake": {
+			"category":"ui",
+			"sounds":["sounds/music/earthquake"],
+		},
+		"core.earthquake5second": {
+			"category":"ui",
+			"sounds":["sounds/music/earthquake5second"],
+		},
+		"core.meltdownWarn": {
+			"category":"ui",
+			"sounds":["sounds/music/meltdownWarn"],
+		},
+		"core.nuclearAlarm": {
+			"category":"ui",
+			"sounds":["sounds/music/nuclearAlarm"],
+		},
+		"core.selfDestructInitiated": {
+			"category":"ui",
+			"sounds":["sounds/music/selfDestructMessage"],
+		},
+		"core.old.selfDestructMessage": {
+			"category":"ui",
+			"sounds":["sounds/music/selfDestructMessageOld"],
+		},
+		"core.selfDestructAlarm": {
+			"category":"ui",
+			"sounds":["sounds/music/selfDestructInitiated"],
+		},
+		"core.meltdown": {
+			"category":"ui",
+			"sounds":["sounds/music/meltdownActivated"],
+		},
+		"core.meltdownAlarm": {
+			"category":"ui",
+			"sounds":["sounds/music/meltdownActivated2"],
+		},
+		"core.exceeded": {
+			"category":"ui",
+			"sounds":["sounds/music/exceeded"],
+		},
+		"core.old.finale": {
+			"category":"ui",
+			"sounds":["sounds/music/finale"],
+		},
+		"core.overheat": {
+			"category":"ui",
+			"sounds":["sounds/music/overheat"],
+		},
+		"core.critical": {
+			"category":"ui",
+			"sounds":["sounds/music/critical"],
+		},
+		"core.safeguards": {
+			"category":"ui",
+			"sounds":["sounds/music/safeguards"],
+		},
+		"core.t6min": {
+			"category":"ui",
+			"sounds":["sounds/music/t6min"],
+		},
+		"core.evac": {
+			"category":"ui",
+			"sounds":["sounds/music/EVAC"],
+		},
+		"core.evacuateatonce": {
+			"category":"ui",
+			"sounds":["sounds/music/danger"],
+		},
+		"core.lockdown": {
+			"category":"ui",
+			"sounds":["sounds/music/Lockdown"],
+		}
+		"core.meltdownStarting": {
+			"category":"ui",
+			"sounds":["sounds/music/meltdownStarting"],
+		},
+		"core.freezedownStarting": {
+			"category":"ui",
+			"sounds":["sounds/music/Black_Hole"],
+		},
+		"core.freezedownSound": {
+			"category":"ui",
+			"sounds":["sounds/music/Deep_Implosion"],
+		},
+		"core.meltdownSound": {
+			"category":"ui",
+			"sounds":["sounds/music/meltdownSound"],
+		},
+		"core.implosions": {
+			"category":"ui",
+			"sounds":["sounds/music/implosions"],
+		},
+		"core.freezedown4minutes": {
+			"category":"ui",
+			"sounds":["sounds/music/freezedown4minutes"],
+		},
+		"core.freezedown2minutes": {
+			"category":"ui",
+			"sounds":["sounds/music/freezedown2minutes"],
+		},
+		"core.blackholeCriticalMass": {
+			"category":"ui",
+			"sounds":["sounds/music/blackholeCriticalMass"],
+		},
+		"core.metalexplosion": {
+			"category":"ui",
+			"sounds":["sounds/music/metalexplosion"],
+		},
+		"core.alarm2": {
+			"category":"ui",
+			"sounds":["sounds/music/alarm2"],
+		},
+		"core.alarm3": {
+			"category":"ui",
+			"sounds":["sounds/music/alarm3"],
+		},
+		"core.alarm4": {
+			"category":"ui",
+			"sounds":["sounds/music/buzz"],
+		},
+		"core.old.music1": {
+			"category":"ui",
+			"sounds":["sounds/music/music1"],
+		},
+		"core.old.music2": {
+			"category":"ui",
+			"sounds":["sounds/music/music2"],
+		},
+		"core.old.music3": {
+			"category":"ui",
+			"sounds":["sounds/music/music3"],
+		},
+		"core.old.music4": {
+			"category":"ui",
+			"sounds":["sounds/music/music4"],
+		},
+		"core.old.music5": {
+			"category":"ui",
+			"sounds":["sounds/music/music5"],
+		},	
 	}
-	"core.meltdown": {
-		"catagory":"music",
-		"sounds":["sounds/music/meltdownStarting"],
-	},
-	"core.metalexplosion": {
-		"catagory":"music",
-		"sounds":["sounds/music/metalexplosion"],
-	},
 }
