@@ -3,4 +3,4 @@
 <br>
 Thank you for downloading this package.
 <br>
-This contains the sounds for core map that you would ever require.
+This contains all the sounds for core map that you would ever require.
