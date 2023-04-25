@@ -1,5 +1,5 @@
 # Core Sounds Pack
-<img width="360px" height="360px" src="pack-icon.png"/>
+<img width="360px" height="360px" src="pack_icon.png"/>
 <br>
 Thank you for downloading this package.
 <br>
