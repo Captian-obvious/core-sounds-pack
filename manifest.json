@@ -1,19 +1,18 @@
 {
-    "format_verson":1,
-    "header":{
-        "discription":"Sounds Pack for 'Super Computer Core'",
-        "name":"Sounds Pack",
-        "uuid":"445c3846-e37c-11ed-b5ea-0242ac120002",
-        "version":[1,0,0],
-        "min_engine_version": [1, 16, 0],
-    },
-    "modules": [
-
-        {
-            "discription":"Sounds Pack for 'Super Computer Core'",
-            "type":"resources",
-            "uuid":"445c3c10-e37c-11ed-b5ea-0242ac120002",
-            "version": [1,0,0],
-        },
-    ],
+ "format_version": 2,
+ "header": {
+   "description": "Sounds for a core game map",
+   "name": "Sounds Pack",
+   "uuid":"e01e129c-e3b1-11ed-b5ea-0242ac120002",
+   "version": [1, 0, 0],
+   "min_engine_version": [1, 16, 0]
+  },
+ "modules": [
+   {
+     "description": "CoreGameSounds",
+     "type": "resources",
+     "uuid": "e01e165c-e3b1-11ed-b5ea-0242ac120002",
+     "version": [1, 0, 0]
+   }
+ ]
 }
