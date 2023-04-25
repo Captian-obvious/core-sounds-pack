@@ -3,11 +3,17 @@
 	"sound_definitions": {
 	    "core.melt1": {
     		"category": "ui",
-    		"sounds": ["sounds/music/theme"],
+    		"sounds": [{
+			"name":"sounds/music/theme",
+			"stream":true,
+		}],
     	},
     	"core.melt2": {
     		"category":"ui",
-    		"sounds":["sounds/music/destruction_imminent"],
+    		"sounds":[{
+			"name":"sounds/music/destruction_imminent",
+			"stream":true,
+		}],
     	},
     	"core.melt3": {
     		"category":"ui",
