@@ -64,11 +64,6 @@
 			"sounds":[{"name":"sounds/music/explosion",
 				"stream":true}],
 		},
-		"core.exceeded": {
-			"category":"ui",
-			"sounds":[{"name":"sounds/music/exceeded",
-				"stream":true}],
-		},
 		"core.rocketsilosann": {
 			"category":"ui",
 			"sounds":[{"name":"sounds/music/rocketsilosann",
@@ -184,7 +179,7 @@
 			"category":"ui",
 			"sounds":[{"name":"sounds/music/Lockdown",
 				"stream":true}],
-		}
+		},
 		"core.meltdownStarting": {
 			"category":"ui",
 			"sounds":[{"name":"sounds/music/meltdownStarting",
