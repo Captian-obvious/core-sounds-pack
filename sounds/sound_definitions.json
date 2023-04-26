@@ -1,6 +1,15 @@
 {
    "format_version":"1.14.0",
    "sound_definitions":{
+      "core.startup":{
+         "category":"ui",
+         "sounds":[
+            {
+               "name":"sounds/music/startup",
+               "stream":true
+            }
+         ]
+      },
       "core.melt1":{
          "category":"ui",
          "sounds":[
