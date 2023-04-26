@@ -31,7 +31,7 @@
 					"stream":true
 				}
 			],
-		}
+		},
 		"core.freeze2": {
 			"category":"ui",
 			"sounds":[
